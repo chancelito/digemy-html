@@ -1,20 +1,12 @@
 {
-    "name": "laravelcollective/html",
+    "name": "chancelito/digemy-html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
-    "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
-    },
     "authors": [
         {
-            "name": "Adam Engebretson",
-            "email": "adam@laravelcollective.com"
-        },
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "Chancel Shongo",
+            "email": "chancelshongo@gmail.com"
         }
     ],
     "require": {
